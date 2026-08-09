@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AbhishekKr-123/LeetCode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekKr-123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AbhishekKr-123/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekKr-123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
