@@ -2,19 +2,19 @@ class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         int[] result = new int[n - k + 1];
-        Deque<Integer> deque = new ArrayDeque<>();
-        int resultIndex = 0;
+
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>(
+            (a, b) -> Integer.compare(b[0], a[0])
+        );
 
         for (int i = 0; i < n; i++) {
-            while (!deque.isEmpty() && deque.peekFirst() <= i - k) {
-                deque.pollFirst();
+            maxHeap.offer(new int[]{nums[i], i});
+
+            while (!maxHeap.isEmpty() && maxHeap.peek()[1] <= i - k) {
+                maxHeap.poll();
             }
-            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[i]) {
-                deque.pollLast();
-            }
-            deque.addLast(i);
             if (i >= k - 1) {
-                result[resultIndex++] = nums[deque.peekFirst()];
+                result[i - k + 1] = maxHeap.peek()[0];
             }
         }
 
