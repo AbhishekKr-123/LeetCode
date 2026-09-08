@@ -46,9 +46,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/AbhishekKr-123/LeetCode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/AbhishekKr-123/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AbhishekKr-123/LeetCode/tree/master/0205-isomorphic-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/AbhishekKr-123/LeetCode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/AbhishekKr-123/LeetCode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/AbhishekKr-123/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
