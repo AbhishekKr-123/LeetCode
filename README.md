@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbhishekKr-123/LeetCode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhishekKr-123/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AbhishekKr-123/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhishekKr-123/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/AbhishekKr-123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Queue
 |  |
@@ -80,4 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekKr-123/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
