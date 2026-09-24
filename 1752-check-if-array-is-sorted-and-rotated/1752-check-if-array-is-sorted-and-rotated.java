@@ -5,16 +5,9 @@ class Solution {
         for(int i=1; i<n;i++){
             if(nums[i-1]>nums[i])
                 count++;
-            else if(nums[i-1]==nums[i]){
-                count =1;
-            }
         }
         if(nums[n-1]>nums[0])
             count++;
-        else if(nums[n-1] == nums[0]){
-            count =1;
-        }
-            // System.out.print(count);
-        return count==1;
+        return count<=1;
     }
 }
