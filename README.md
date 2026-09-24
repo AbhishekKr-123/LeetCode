@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/AbhishekKr-123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbhishekKr-123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Queue
