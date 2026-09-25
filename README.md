@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AbhishekKr-123/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AbhishekKr-123/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhishekKr-123/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AbhishekKr-123/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AbhishekKr-123/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekKr-123/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhishekKr-123/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AbhishekKr-123/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AbhishekKr-123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekKr-123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbhishekKr-123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AbhishekKr-123/LeetCode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/AbhishekKr-123/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -109,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhishekKr-123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AbhishekKr-123/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
